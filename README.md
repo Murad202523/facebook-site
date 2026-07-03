@@ -1,29 +1,31 @@
-
----
-
-## 📘 Facebook Site (React + Tailwind)
-
-```markdown id="r2"
 # 📘 Facebook Site
 
 ## 📌 Description
-A Facebook-like social media UI built using React and Tailwind CSS.  
-The project simulates feed, posts, and user interface.
+A simple social media UI clone built using HTML, CSS, and JavaScript.  
+The project simulates a Facebook-like interface with posts and feed layout.
 
 ## 🚀 Features
-- Dynamic feed layout  
-- Post components  
-- Responsive UI design  
-- Interactive interface  
+- Login / registration UI  
+- News feed layout  
+- Posts design  
+- Responsive design  
 
 ## 🛠 Tech Stack
-- React  
-- JavaScript (ES6+)  
-- Tailwind CSS  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
 
 ## ▶️ How to Run
-1. Clone the repository  
-2. Run:
-```bash
-npm install  
-npm run dev
+1. Download or clone the repository  
+2. Open `index.html` in your browser  
+
+## 📷 Screenshots
+(Add images if available)
+
+## 🎯 Future Improvements
+- Add backend (Java / Spring Boot)  
+- Add real authentication system  
+- Improve feed functionality  
+
+## 📫 Contact
+GitHub: https://github.com/Murad202523
